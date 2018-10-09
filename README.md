@@ -2,7 +2,7 @@
 
 Test repo
 
-And here its [test wiki](@QTX0/test/wiki)
+And here its [test wiki](test/wiki)
 
 Testing | a table
 --------|--------
